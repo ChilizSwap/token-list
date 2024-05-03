@@ -31,17 +31,7 @@
       "symbol": "JUV",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/ChilizSwap/fantokenlistlogos/main/fantoken-logos/0x454038003a93cf44766aF352F74bad6B745616D0.png"
-    },
-
-     {
-      "chainId": 88888,
-      "address": "0x0b7Ff9352eb3baB924A8bf504419C294DaCd9EdC",
-      "name": "Catchi",
-      "symbol": "CAT",
-      "decimals": 18,
-      "logoURI": "https://static.coingecko.com/s/thumbnail-007177f3eca19695592f0b8b0eabbdae282b54154e1be912285c9034ea6cbaf2.png"
     }
-
     
   ],
   "version": {
