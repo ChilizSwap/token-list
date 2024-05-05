@@ -17,7 +17,14 @@
       "logoURI": "https://raw.githubusercontent.com/ChilizSwap/fantokenlistlogos/main/fantoken-logos/0x677F7e16C7Dd57be1D4C8aD1244883214953DC47.png"
     },
 
-    
+     {
+      "chainId": 88888,
+      "address": "0xc2661815C69c2B3924D3dd0c2C1358A1E38A3105",
+      "name": "Paris Saint-Germain",
+      "symbol": "PSG",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/ChilizSwap/fantokenlistlogos/main/fantoken-logos/0xc2661815C69c2B3924D3dd0c2C1358A1E38A3105.png"
+    },
   
     {
       "chainId": 88888,
@@ -29,7 +36,7 @@
     }
   ],
   "version": {
-    "major": 2,
+    "major": 3,
     "minor": 3,
     "patch": 1
   }
