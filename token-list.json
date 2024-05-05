@@ -33,23 +33,11 @@
       "symbol": "BAR",
       "decimals": 0,
       "logoURI": "https://github.com/ChilizSwap/fantokenlistlogos/blob/main/fantoken-logos/0xFD3C73b3B09D418841dd6Aff341b2d6e3abA433b.png"
-    },
-
-  
-   
-    {
-      "chainId": 88888,
-      "address": "0x454038003a93cf44766aF352F74bad6B745616D0",
-      "name": "Juventus",
-      "symbol": "JUV",
-      "decimals": 0,
-      "logoURI": "https://raw.githubusercontent.com/ChilizSwap/fantokenlistlogos/main/fantoken-logos/0x454038003a93cf44766aF352F74bad6B745616D0.png"
     }
-    
   ],
   "version": {
     "major": 1,
-    "minor": 2,
+    "minor": 3,
     "patch": 1
   }
 }
