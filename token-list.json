@@ -17,6 +17,18 @@
       "logoURI": "https://raw.githubusercontent.com/ChilizSwap/fantokenlistlogos/main/fantoken-logos/0x677F7e16C7Dd57be1D4C8aD1244883214953DC47.png"
     },
 
+
+
+      {
+      "chainId": 88888,
+      "address": "0xEd5740209FcF6974d6f3a5F11e295b5E468aC27c",
+      "name": "Kewl Exchange",
+      "symbol": "KWL",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ChilizSwap/fantokenlistlogos/main/fantoken-logos/0xEd5740209FcF6974d6f3a5F11e295b5E468aC27c.png"
+    },
+
+
     
     {
       "chainId": 88888,
@@ -49,7 +61,7 @@
   ],
   "version": {
     "major": 1,
-    "minor": 0,
-    "patch": 0
+    "minor": 1,
+    "patch": 1
   }
 }
