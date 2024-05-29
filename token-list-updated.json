@@ -17,6 +17,18 @@
       "logoURI": "https://raw.githubusercontent.com/ChilizSwap/fantokenlistlogos/main/fantoken-logos/0x677F7e16C7Dd57be1D4C8aD1244883214953DC47.png"
     },
 
+
+
+      {
+      "chainId": 88888,
+      "address": "0xEd5740209FcF6974d6f3a5F11e295b5E468aC27c",
+      "name": "Kewl Exchange",
+      "symbol": "KWL",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ChilizSwap/fantokenlistlogos/main/fantoken-logos/0xEd5740209FcF6974d6f3a5F11e295b5E468aC27c.png"
+    },
+
+
     
     {
       "chainId": 88888,
@@ -35,6 +47,24 @@
       "logoURI": "https://github.com/ChilizSwap/fantokenlistlogos/blob/main/fantoken-logos/0xFD3C73b3B09D418841dd6Aff341b2d6e3abA433b.png"
     },
 
+     {
+      "chainId": 88888,
+      "address": "0x6DaB8Fe8e5d425F2Eb063aAe58540aA04e273E0d",
+      "name": "Galatasaray",
+      "symbol": "GAL",
+      "decimals": 0,
+      "logoURI": "https://github.com/ChilizSwap/fantokenlistlogos/blob/main/fantoken-logos/0x6DaB8Fe8e5d425F2Eb063aAe58540aA04e273E0d.png"
+    },
+
+       {
+      "chainId": 88888,
+      "address": "0x6401b29F40a02578Ae44241560625232A01B3F79",
+      "name": "Manchester City",
+      "symbol": "CITY",
+      "decimals": 0,
+      "logoURI": "https://github.com/ChilizSwap/fantokenlistlogos/blob/main/fantoken-logos/0x6401b29F40a02578Ae44241560625232A01B3F79.png"
+    },
+
   
    
     {
@@ -49,7 +79,7 @@
   ],
   "version": {
     "major": 1,
-    "minor": 1,
+    "minor": 2,
     "patch": 1
   }
 }
