@@ -96,13 +96,14 @@
       "decimals": 2,
       "logoURI": "https://github.com/ChilizSwap/fantokenlistlogos/blob/main/fantoken-logos/0x75D28E4c65aCD2EB6efCB0D200869E89C2c1ef1f.png"
     },
+    
   {
       "chainId": 88888,
-      "address": "0x6401b29F40a02578Ae44241560625232A01B3F79",
-      "name": "Manchester City",
-      "symbol": "CITY",
+      "address": "0x454038003a93cf44766af352f74bad6b745616d0",
+      "name": "Juventus",
+      "symbol": "JUV",
       "decimals": 0,
-      "logoURI": "https://github.com/ChilizSwap/fantokenlistlogos/blob/main/fantoken-logos/0x6401b29F40a02578Ae44241560625232A01B3F79.png"
+      "logoURI": "https://github.com/ChilizSwap/fantokenlistlogos/blob/main/fantoken-logos/0x454038003a93cf44766af352f74bad6b745616d0.png"
     }
 
     
