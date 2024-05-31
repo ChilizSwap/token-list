@@ -83,7 +83,7 @@
       "address": "0x60cfC65BA14C2f8B111Fc7B152bB11486FDEa822",
       "name": "FanFanToken",
       "symbol": "FANFAN",
-      "decimals": 0,
+      "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ChilizSwap/fantokenlistlogos/main/fantoken-logos/0x60cfC65BA14C2f8B111Fc7B152bB11486FDEa822.png"
     },
 
@@ -93,7 +93,7 @@
       "address": "0x75D28E4c65aCD2EB6efCB0D200869E89C2c1ef1f",
       "name": "Footy Fan",
       "symbol": "FAFO",
-      "decimals": 0,
+      "decimals": 2,
       "logoURI": "https://github.com/ChilizSwap/fantokenlistlogos/blob/main/fantoken-logos/0x75D28E4c65aCD2EB6efCB0D200869E89C2c1ef1f.png"
     },
   {
