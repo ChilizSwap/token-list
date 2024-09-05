@@ -41,51 +41,10 @@
 
 
     
-    {
-      "chainId": 88888,
-      "address": "0xc2661815C69c2B3924D3dd0c2C1358A1E38A3105",
-      "name": "Paris Saint-Germain",
-      "symbol": "PSG",
-      "decimals": 0,
-      "logoURI": "https://raw.githubusercontent.com/ChilizSwap/fantokenlistlogos/main/fantoken-logos/0xc2661815C69c2B3924D3dd0c2C1358A1E38A3105.png"
-    },
-    {
-      "chainId": 88888,
-      "address": "0xFD3C73b3B09D418841dd6Aff341b2d6e3abA433b",
-      "name": "Barcelona",
-      "symbol": "BAR",
-      "decimals": 0,
-      "logoURI": "https://github.com/ChilizSwap/fantokenlistlogos/blob/main/fantoken-logos/0xFD3C73b3B09D418841dd6Aff341b2d6e3abA433b.png"
-    },
+   
+   
 
-     {
-      "chainId": 88888,
-      "address": "0x6DaB8Fe8e5d425F2Eb063aAe58540aA04e273E0d",
-      "name": "Galatasaray",
-      "symbol": "GAL",
-      "decimals": 0,
-      "logoURI": "https://github.com/ChilizSwap/fantokenlistlogos/blob/main/fantoken-logos/0x6DaB8Fe8e5d425F2Eb063aAe58540aA04e273E0d.png"
-    },
-
-       {
-      "chainId": 88888,
-      "address": "0x6401b29F40a02578Ae44241560625232A01B3F79",
-      "name": "Manchester City",
-      "symbol": "CITY",
-      "decimals": 0,
-      "logoURI": "https://github.com/ChilizSwap/fantokenlistlogos/blob/main/fantoken-logos/0x6401b29F40a02578Ae44241560625232A01B3F79.png"
-    },
-
-
-     {
-      "chainId": 88888,
-      "address": "0x454038003a93cf44766af352f74bad6b745616d0",
-      "name": "Juventus",
-      "symbol": "JUV",
-      "decimals": 0,
-      "logoURI": "https://github.com/ChilizSwap/fantokenlistlogos/blob/main/fantoken-logos/0x454038003a93cf44766af352f74bad6b745616d0.png"
-    },
-
+    
    
     {
       "chainId": 88888,
@@ -102,7 +61,7 @@
       "name": "MunChiz",
       "symbol": "MC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ChilizSwap/fantokenlistlogos/main/fantoken-logos/fantoken-logos/0x81fb6d4b45e0897e2151ad60be1ed33d973223ce.png"
+      "logoURI": "https://raw.githubusercontent.com/ChilizSwap/fantokenlistlogos/main/fantoken-logos/0x81fb6d4b45e0897e2151ad60be1ed33d973223ce.png"
     },
 
 
@@ -121,7 +80,7 @@
   ],
   "version": {
     "major": 1,
-    "minor": 5,
+    "minor": 6,
     "patch": 1
   }
 }
