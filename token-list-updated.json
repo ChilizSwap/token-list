@@ -41,7 +41,14 @@
 
 
     
-   
+   {
+      "chainId": 88888,
+      "address": "0x2ebec8e89bb4b9c3681be4eaa85c391f1cd717ce",
+      "name": "DiviSwap",
+      "symbol": "DSwap",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ChilizSwap/fantokenlistlogos/main/fantoken-logos/0x2ebec8e89bb4b9c3681be4eaa85c391f1cd717ce.png"
+    },
    
 
     
@@ -65,7 +72,37 @@
     },
 
 
+       {
+      "chainId": 88888,
+      "address": "0xf3928e7871eb136dd6648ad08aeef6b6ea893001",
+      "name": "Chiliz Inu",
+      "symbol": "ChzInu",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ChilizSwap/fantokenlistlogos/main/fantoken-logos/0x81fb6d4b45e0897e2151ad60be1ed33d973223ce.png"
+    },
+
+       {
+      "chainId": 88888,
+      "address": "0x60f397acbcfb8f4e3234c659a3e10867e6fa6b67",
+      "name": "PEPPER Token",
+      "symbol": "PEPPER",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ChilizSwap/fantokenlistlogos/main/fantoken-logos/0x81fb6d4b45e0897e2151ad60be1ed33d973223ce.png"
+    },
+
+       {
+      "chainId": 88888,
+      "address": "0x5380ec26851c8109bbb1bfcb78aa138724c6ec4c",
+      "name": "Chiliz with shoes",
+      "symbol": "CHZWIF",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ChilizSwap/fantokenlistlogos/main/fantoken-logos/0x81fb6d4b45e0897e2151ad60be1ed33d973223ce.png"
+    },
+
     
+
+
+
       {
       "chainId": 88888,
       "address": "0x75D28E4c65aCD2EB6efCB0D200869E89C2c1ef1f",
@@ -80,7 +117,7 @@
   ],
   "version": {
     "major": 1,
-    "minor": 6,
+    "minor": 8,
     "patch": 1
   }
 }
